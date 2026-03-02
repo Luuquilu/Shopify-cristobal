@@ -1,6 +1,6 @@
 client_id = "160870393f2d00fa40d504ae0aa8116a"
 name = "Cristobal"
-application_url = "https://shopify-cristobal.onrender.com"
+application_url = "https://cristobal-app.onrender.com"
 embedded = true
 
 [build]
@@ -28,5 +28,5 @@ use_legacy_install_flow = false
 
 [auth]
 redirect_urls = [
-  "https://shopify-cristobal.onrender.com/auth/callback"
+  "https://cristobal-app.onrender.com/auth/callback"
 ]
